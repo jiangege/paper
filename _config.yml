@@ -46,10 +46,12 @@ google_analytics_id: xx-xxxxxxx-xx
 
 # commend module
 comment:
-  enable: false
-  appId: your-app-id
-  appKey: your-app-key
-  placeholder: say something
+  enable: true
+  appId: vO8Wf3bmuvpG2qrOgRNtBxmg-gzGzoHsz
+  appKey: 9btreRIuQRXqfQCqvghrF4ql
+  emojiCDN: https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/
+  placeholder: 留下你的骚话
   notify: false
   verify: false
-  avatar: mp
+  visitor: true
+  avatar: retro
